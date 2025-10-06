@@ -57,7 +57,7 @@ The model identifies key pricing patterns that enable **passengers**, **drivers*
 ## 📖 Notebooks
 Explore the Jupyter notebook below with in-depth analysis and insights:
 
-- [**Data Analysis,Modeling and Insights **]((https://github.com/NiranjanaAnand/MLAI_Mod_24_CapstoneProject/blob/main/Capstone_Project_Taxi_Fare_Prediction.ipynb)) .
+- [**Model and insights**](https://github.com/NiranjanaAnand/MLAI_Mod_24_CapstoneProject/blob/main/Capstone_Project_Taxi_Fare_Prediction.ipynb) – Data analysis, feature engineering, and model building.
 
 ---
 ## 📊 Model Development  
