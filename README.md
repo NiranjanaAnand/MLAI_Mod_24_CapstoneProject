@@ -20,16 +20,26 @@ The model identifies key pricing patterns that enable **passengers**, **drivers*
 
 ---
 
-## 🧪 Methodology — *CRISP-DM Framework*
+## 📖 Notebooks
+Explore the Jupyter notebook below with in-depth analysis and insights:
 
-| Phase | Description |
-|-------|--------------|
-| **1. Business Understanding** | Define problem: estimating fare amount for transparency and optimization. |
-| **2. Data Understanding** | Explore raw trip data, analyze variable distributions, detect anomalies. |
-| **3. Data Preparation** | Handle missing data, remove outliers, engineer distance/time-based features. |
-| **4. Modeling** | Build and evaluate regression models (Linear, Ridge, Lasso, Random Forest, XGBoost). |
-| **5. Evaluation** | Compare RMSE and R² metrics to identify best performance. |
-| **6. Deployment Readiness** | Prepare for integration into dashboards or real-time applications. |
+- [**Model and insights**](https://github.com/NiranjanaAnand/MLAI_Mod_24_CapstoneProject/blob/main/Capstone_Project_Taxi_Fare_Prediction.ipynb) – Data analysis, feature engineering, and model building.
+
+---
+
+## 🚀 Project Workflow
+
+The project follows a structured **machine learning pipeline**:
+
+1. **Data Loading** – Load and preprocess the dataset.
+2. **Exploratory Data Analysis** – Identify trends, correlations, and distributions.
+3. **Train/Test Split** – Partition the dataset for model evaluation.
+4. **Feature Engineering** – Transform categorical and numerical features.
+5. **Regression Modeling** – Train multiple regression models.
+6. **Hyperparameter Tuning** – Optimize models for better performance.
+7. **Model Selection** – Choose the best-performing model.
+8. **Model Interpretation** – Use SHAP values to explain feature importance.
+9. **Results & Analysis** – Evaluate model accuracy and key findings.
 
 ---
 
@@ -54,12 +64,7 @@ The model identifies key pricing patterns that enable **passengers**, **drivers*
 
 ---
 
-## 📖 Notebooks
-Explore the Jupyter notebook below with in-depth analysis and insights:
 
-- [**Model and insights**](https://github.com/NiranjanaAnand/MLAI_Mod_24_CapstoneProject/blob/main/Capstone_Project_Taxi_Fare_Prediction.ipynb) – Data analysis, feature engineering, and model building.
-
----
 ## 📊 Model Development  
 
 - **Baseline Models:** Linear, Ridge & Lasso Regression — established benchmark.  
